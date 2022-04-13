@@ -9,7 +9,7 @@ Systems solver is a python program desinged to solve systems of equations with a
 ~~~
 2x^3 + 3y + 2z = 25
 5y - 2z + 3x^3 = 23
-5z - x^3 + 7y = 14
+5z - 1x^3 + 7y = 14
 
 > x = 2
 > y = 1
